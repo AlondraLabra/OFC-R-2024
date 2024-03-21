@@ -1,0 +1,2 @@
+[1,"==> quarto preview intento de trabajo dr R.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"ERROR: YAMLException: duplicated mapping key (intento de trabajo dr R.qmd, 8:1)\n7: link.citations: true\n8: bibliography: autonomia-economica.bib\n  ~~\n9: ---\n"]
